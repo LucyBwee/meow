@@ -1,0 +1,22 @@
+{
+    "name": "Celestia",
+    "description": "For my celestia lovers <3",
+    "authors": [
+      {
+        "name": "Lucy",
+        "id": "1188716100612001892"
+      }
+    ],
+    "spec": 2,
+    "semanticColors": {
+      "HEADER_PRIMARY": ["#CECAE0", "#D6D2D9", "#56526C"]
+    },
+    "rawColors": {
+      "PRIMARY_500": "#E5E5ED"
+    },
+    "background": {
+      "blur": 0,
+      "url": "https://i.vgy.me/Ne7RYz.jpg",
+      "alpha": 1
+    }
+  }
