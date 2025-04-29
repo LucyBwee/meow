@@ -1,5 +1,5 @@
 {
-    "name": "Celestia Orchid Love",
+    "name": "Orchid Love",
     "description": "Theme made with love",
     "authors": [
       {
@@ -277,7 +277,7 @@
      },
     
     "background": {
-        "alpha": 5,
+        "alpha": 0.4,
         "url": "https://github.com/LucyBwee/meow/blob/main/__celestia_strinova__1f06111561a46a59e296200eefe6c995.jpg?raw=true"
     },
     "plus":{
